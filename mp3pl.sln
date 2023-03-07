@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mp3pl", "mp3pl\mp3pl.csproj", "{6BC1B5BC-A8EF-425C-85CA-32D0D7B06B0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BC1B5BC-A8EF-425C-85CA-32D0D7B06B0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BC1B5BC-A8EF-425C-85CA-32D0D7B06B0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BC1B5BC-A8EF-425C-85CA-32D0D7B06B0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BC1B5BC-A8EF-425C-85CA-32D0D7B06B0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {308A7A7E-B6E7-4483-9ABB-E826F6ACB2C2}
+	EndGlobalSection
+EndGlobal
